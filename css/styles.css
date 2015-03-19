@@ -1,0 +1,33 @@
+.navbar-inverse {background-color:#333; border:none;}
+.navbar {border-radius:0px; color:#fff;}
+
+.navbar-inverse .navbar-nav>li>a:hover {background-color:#E11822;}
+
+.navbar-inverse .navbar-nav>li>a {color:#fff;}
+.navbar-inverse .navbar-brand {color:#fff; font-size:22px;}
+
+footer {text-align:center; background:#2d2b2c; padding:10px 0; color:#fff; margin-top:40px;}
+footer a, footer a:focus, footer a:active, footer a:hover {color:#fff;}
+
+h1, h2 {color:#E11822; font-weight:bold;}
+
+.text-twitter {color:#55acee;}
+.text-facebook {color:#3b5998;}
+.text-instagram {color:#3f729b;}
+
+.shortInput {width:5em; display:inline-block;}
+.mediumInput {width:8em; display:inline-block;}
+
+form h2.formHeading {color:#E11822; font-weight:bold; margin:2em 0 .5em 0;}
+
+.img-responsive {display:inline-block;}
+
+div.divider {
+	border-top:1px dashed #ccc;
+	width:100%;
+	display:block;
+	clear:both;
+	margin:20px 0;
+
+}
+

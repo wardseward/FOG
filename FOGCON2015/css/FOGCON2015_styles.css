@@ -1,0 +1,29 @@
+.navbar-inverse {background-color:#333; border:none;}
+.navbar {border-radius:0px; color:#fff;}
+
+.navbar-inverse .navbar-nav>li>a:hover {background-color:#E11822;}
+
+.navbar-inverse .navbar-nav>li>a {color:#fff;}
+.navbar-inverse .navbar-brand {color:#fff; font-size:22px;}
+
+footer {text-align:center; background-color:#333; padding:10px 0; color:#fff; margin-top:40px;}
+footer a, footer a:focus, footer a:active, footer a:hover {color:#fff;}
+
+
+@media (min-width:1200px) {
+/*.container {width:1050px;}*/
+}
+
+h1, h2 {color:#E11822; font-weight:bold;}
+
+.HomeFeature {text-align:center; margin-top:60px;}
+.HomeFeature h1 {font-size:3.1em;}
+.HomeFeature h2 {font-weight:normal; color:#666;}
+
+@media (max-width:1120px) {
+.HomeFeature h1 {font-size:2em;}
+}
+
+
+.panel-default .panel-heading {background-color:#E11822; color:#fff; font-weight:bold;}
+
